@@ -2,7 +2,6 @@
 Привет 👋 Меня зовут Рашид, я занимаюсь разработкой софта на/для платформе(-ы) Microsoft Windows.
 <br><br>
 
-[![](https://img.shields.io/badge/GMail-EA4335?logo=gmail&logoColor=fff)](mailto://codev01.private@gmail.com)
 [![](https://img.shields.io/badge/VK-4680C2?logo=vk&logoColor=fff)](https://vk.com/codev01)
 [![](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram)](https://t.me/codev01)
 
@@ -31,9 +30,7 @@
 - Прочее: 
 
 	[![](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/codev01)
-	![](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=000)
 	![](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff)
-	![](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
 	![](https://img.shields.io/badge/XAML-0C54C2?logo=xaml&logoColor=fff)
 	![](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=fff)
 	![](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=fff)
